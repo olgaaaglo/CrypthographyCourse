@@ -1,0 +1,1 @@
+kompilacja: g++ -std=c++17 A.cpp itd
